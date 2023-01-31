@@ -1,0 +1,13 @@
+.btn--wrapper {
+	background: blue;
+
+	padding: 24px;
+	color: white;
+	width: 200px;
+	text-align: center;
+}
+
+.btn--wrapper:hover {
+	background: red;
+	border-radius: 46px;
+}
